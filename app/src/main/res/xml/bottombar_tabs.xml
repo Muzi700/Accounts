@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/home"
+        title="首页"
+        activeColor="#F58322"
+        barColorWhenSelected="#ffffff" />
+
+    <tab
+        id="@+id/baobiao"
+        activeColor="#F58322"
+        title="订单"
+        barColorWhenSelected="#ffffff" />
+
+</tabs>
