@@ -9,7 +9,7 @@
     <tab
         id="@+id/baobiao"
         activeColor="#F58322"
-        title="订单"
+        title="添加"
         barColorWhenSelected="#ffffff" />
 
 </tabs>
